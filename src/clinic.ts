@@ -3,9 +3,9 @@ export const clinic = {
  businessName: 'Consultório Odontológico Dra. Maria Marta Andrade',
  cro: '', // Identificação completa e UF, somente após confirmação.
  address: 'Rua Rui Barbosa, 395 — Aterro', city: 'Aracati — Ceará',
- mapsAddress: 'Rua Rui Barbosa, 395, Aterro, Aracati, Ceará, Brasil', days: 'Segunda a sexta-feira',
- phone: '+558882292109', phoneDisplay: '+55 88 8229-2109', phoneConfirmed: false,
- whatsapp: '', whatsappConfirmed: false,
+ mapsAddress: 'Rua Rui Barbosa, 395, Aterro, Aracati, Ceará, Brasil', days: 'Segunda a sexta-feira, das 15h30 às 18h30',
+ phone: '+558882292109', phoneDisplay: '+55 88 8229-2109', phoneConfirmed: true,
+ whatsapp: '558882292109', whatsappConfirmed: true,
  logo: '', // '/assets/logo.webp': inserir o arquivo ORIGINAL fornecido pela cliente.
  canonical: '', // URL HTTPS final; ativa canonical e Schema.org.
  developerCredit: 'Desenvolvido por Zaion Soluções Digitais',
