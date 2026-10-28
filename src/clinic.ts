@@ -8,7 +8,7 @@ export const clinic = {
  whatsapp: '558882292109', whatsappConfirmed: true,
  logo: '/assets/logo.png', // '/assets/logo.webp': inserir o arquivo ORIGINAL fornecido pela cliente.
  canonical: '', // URL HTTPS final; ativa canonical e Schema.org.
- developerCredit: 'Desenvolvido por Zaion Soluções Digitais',
+ developerCredit: 'Desenvolvido por Zaion Luz do Sol',
 };
 export const treatments = [
  ['Restaurações dentárias','Cuidados para recuperar a estrutura e a função de dentes afetados por cáries ou outros danos, conforme avaliação clínica.'],
