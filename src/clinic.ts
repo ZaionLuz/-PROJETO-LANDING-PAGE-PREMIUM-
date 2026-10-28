@@ -6,7 +6,7 @@ export const clinic = {
  mapsAddress: 'Rua Rui Barbosa, 395, Aterro, Aracati, Ceará, Brasil', days: 'Segunda a sexta-feira, das 15h30 às 18h30',
  phone: '+558882292109', phoneDisplay: '+55 88 8229-2109', phoneConfirmed: true,
  whatsapp: '558882292109', whatsappConfirmed: true,
- logo: '', // '/assets/logo.webp': inserir o arquivo ORIGINAL fornecido pela cliente.
+ logo: '/assets/logo.png', // '/assets/logo.webp': inserir o arquivo ORIGINAL fornecido pela cliente.
  canonical: '', // URL HTTPS final; ativa canonical e Schema.org.
  developerCredit: 'Desenvolvido por Zaion Soluções Digitais',
 };
